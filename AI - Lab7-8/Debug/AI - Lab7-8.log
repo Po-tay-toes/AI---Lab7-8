@@ -1,4 +1,8 @@
 ﻿  FFNet.cpp
+w:\uni\year 2\semester 1\ai game programming\lab work\ai - lab7-8\ai - lab7-8\ffnet.cpp(10): warning C4305: '=': truncation from 'double' to 'float'
+w:\uni\year 2\semester 1\ai game programming\lab work\ai - lab7-8\ai - lab7-8\ffnet.cpp(25): error C2065: 'theta': undeclared identifier
+w:\uni\year 2\semester 1\ai game programming\lab work\ai - lab7-8\ai - lab7-8\ffnet.cpp(25): error C2661: 'pow': no overloaded function takes 1 arguments
+w:\uni\year 2\semester 1\ai game programming\lab work\ai - lab7-8\ai - lab7-8\ffnet.cpp(45): error C2065: 'theta': undeclared identifier
+w:\uni\year 2\semester 1\ai game programming\lab work\ai - lab7-8\ai - lab7-8\ffnet.cpp(64): error C2065: 'theta': undeclared identifier
   main.cpp
   Generating Code...
-  AI - Lab7-8.vcxproj -> W:\Uni\Year 2\Semester 1\AI Game Programming\Lab work\AI - Lab7-8\Debug\AI - Lab7-8.exe

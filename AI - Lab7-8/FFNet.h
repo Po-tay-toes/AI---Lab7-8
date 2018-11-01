@@ -5,7 +5,7 @@ class FFNet
 {
 private:
 
-	float y, X, X2, X3, theta, delta, alpha, e, e2, e3, w1, w2, w3, w4, w5, w6, h1, h2;
+	float y, X, X2, X3, theta1, theta2, theta3, delta, alpha, e, e2, e3, w1, w2, w3, w4, w5, w6, h1, h2, delta1, delta2, delta3;
 
 	float x1[4] = { 0, 0, 1, 1 };
 	float x2[4] = { 0, 1, 0, 1 };
